@@ -45,13 +45,16 @@ sudo apt install vim
   - Switch with `i` (insert)
 - **Back to Command Mode**: Press `Esc`
 
-![open](Edit/edit.png)
+![Edit](Images/edit.png)
 
 ---
 
 ## 💾 Save and Exit
 
 - Save and quit: `:wq`
+
+  ![wq](Images/wq.png)
+
 - Quit without saving: `:q!`
 
 ---
