@@ -1,6 +1,6 @@
 # 📝 Working with Vim Editor on Linux
 
-Vim is a powerful text editor used in the command-line interface. It allows you to create, modify, and navigate files quickly and efficiently. It’s an essential skill for any Linux user, system admin, or DevOps engineer.
+Vim is a powerful text editor used in the command-line interface. It allows you to create, modify, and navigate files quickly and efficiently. It's an essential skill for any Linux user, system admin, or DevOps engineer.
 
 ---
 
@@ -16,9 +16,10 @@ Vim is a powerful text editor used in the command-line interface. It allows you 
 ## 📦 Installing Vim
 
 ```bash
-sudo apt update
 sudo apt install vim
 ```
+
+![Install](Images/install.png)
 
 ---
 
@@ -90,8 +91,8 @@ sudo apt install vim
 
 - Use Vim to write commit messages
 - Use it to edit remote config files via SSH
-- Practice on files you don’t mind changing!
+- Practice on files you don't mind changing!
 
 ---
 
-🧑‍💻 Created by Rico John Dato-on\*
+🧑‍💻 Created by Rico John Dato-on
