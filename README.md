@@ -15,15 +15,17 @@ Vim is a powerful text editor used in the command-line interface. It allows you 
 
 ## 📦 Installing Vim
 
-![Install](Images/install.png)
-
 ```bash
 sudo apt install vim
 ```
 
+![Install](Images/install.png)
+
 ---
 
 ## 🚪 Opening a File
+
+![open](Images/open.gif)
 
 - Open an existing file:
   ```bash
