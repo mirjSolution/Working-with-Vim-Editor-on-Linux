@@ -45,6 +45,8 @@ sudo apt install vim
   - Switch with `i` (insert)
 - **Back to Command Mode**: Press `Esc`
 
+![open](Edit/edit.png)
+
 ---
 
 ## 💾 Save and Exit
