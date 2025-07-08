@@ -63,7 +63,7 @@ sudo apt install vim
 
 ## ✏️ Basic Editing
 
-![q!](Images/q!.png)
+![q!](Images/Tips.gif)
 
 | Action                      | Command     |
 | --------------------------- | ----------- |
