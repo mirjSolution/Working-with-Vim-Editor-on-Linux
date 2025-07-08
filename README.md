@@ -83,7 +83,7 @@ sudo apt install vim
 
 ### Search for a word
 
-![q!](Images/search.gif)
+![search](Images/search.gif)
 
 ```bash
 /app
@@ -93,6 +93,8 @@ sudo apt install vim
 - Previous match: `Shift + N`
 
 ### Replace all instances
+
+![replace](Images/searchAll.gif)
 
 ```bash
 :%s/app/webapp/g
