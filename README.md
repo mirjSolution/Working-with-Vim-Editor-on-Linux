@@ -83,8 +83,10 @@ sudo apt install vim
 
 ### Search for a word
 
+![q!](Images/search.gif)
+
 ```bash
-/nginx
+/app
 ```
 
 - Next match: `n`
@@ -93,7 +95,7 @@ sudo apt install vim
 ### Replace all instances
 
 ```bash
-:%s/nginx/webapp/g
+:%s/app/webapp/g
 ```
 
 ---
