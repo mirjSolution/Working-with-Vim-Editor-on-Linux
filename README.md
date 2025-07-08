@@ -63,6 +63,8 @@ sudo apt install vim
 
 ## ✏️ Basic Editing
 
+![q!](Images/q!.png)
+
 | Action                      | Command     |
 | --------------------------- | ----------- |
 | Insert mode                 | `i` or `a`  |
