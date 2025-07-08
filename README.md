@@ -57,6 +57,8 @@ sudo apt install vim
 
 - Quit without saving: `:q!`
 
+  ![q!](Images/q!.png)
+
 ---
 
 ## ✏️ Basic Editing
